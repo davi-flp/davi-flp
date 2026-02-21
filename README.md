@@ -4,14 +4,12 @@
 🚀 Focado em Bots, Automação e Backend  
 🇧🇷 Brasil  
 
-## 🧠 Linguagens que estudo:
+## 🚀 Tecnologias
 
-- JavaScript
-- Node.js
-- HTML
-- CSS
-- Firebase
-- APIs
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 
 ## 📊 Estatísticas:
 
