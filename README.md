@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Davi Felipe
 
-<!--
-**davi-flp/davi-flp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado  
+🚀 Focado em Bots, Automação e Backend  
+🇧🇷 Brasil  
 
-Here are some ideas to get you started:
+## 🧠 Linguagens que estudo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- HTML
+- CSS
+- Firebase
+- APIs
+
+## 📊 Estatísticas:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-flp&show_icons=true&theme=tokyonight)
+
+## 📫 Contato:
+- Discord: davizikaaflp
+- Instagram: @davi.flp_
