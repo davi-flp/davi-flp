@@ -3,7 +3,7 @@
 
 <br><br>
 
-<h2>👋 Prazer, me chamo Davi Felipe</h2>
+<h2>👋 Prazer, me chamo Davi Felipe.</h2>
 
 <p>
 💻 Desenvolvedor experiente<br>
