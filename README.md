@@ -29,7 +29,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi-flp&show_icons=true&theme=tokyonight)
 
 ---
 
