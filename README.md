@@ -11,6 +11,7 @@
 🛡️ Segurança e Vulnerabilidades<br>
 📱 Aplicativos e Criação de APIs<br>
 🇧🇷 Brasil
+  [Antiga conta com repositórios e projetos Banida por violação dos Termos de Uso]
 </p>
 
 <hr>
