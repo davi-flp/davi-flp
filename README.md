@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Instagram-@davi.flp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Discord-davizikaaflp-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-daviflpdev-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <br>
